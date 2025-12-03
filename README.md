@@ -106,8 +106,5 @@ streamlit run mc_ocr/deployment/design.py
 conda env export > env.yml
 ```
 
-## 📄 License
-Add your license information here.
-
 ## 🙌 Acknowledgements
 Thanks to the authors of PaddleOCR, MobileNetV3, VietOCR, and other open-source contributors.
